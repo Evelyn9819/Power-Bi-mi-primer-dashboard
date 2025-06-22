@@ -60,4 +60,4 @@ Aunque el dataset es ficticio, este proyecto me permitió practicar:
 
 ---
   
-🔗 **LinkedIn:** [linkedin.com/in/evelynoblitas](https://linkedin.com/in/evelynoblitas)
+🔗 **LinkedIn:** [linkedin.com/in/evelynoblitas](https://www.linkedin.com/in/evelynoblitas19/)
