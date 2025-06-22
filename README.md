@@ -1,39 +1,69 @@
-# 📊  Power-Bi-mi-primer-dashboard
-Primer acercamiento práctico al entorno de Power BI: limpieza de datos, modelo estrella y visualizaciones básicas.
+# 🛒 Proyecto Power BI: Springfield BI - Organizando la tienda de Apu
+
+**Análisis de ventas, clientes y stock en la tienda de Apu**  
+**Autora:** Evelyn Jezabel Oblitas Delgado  
+**Fecha:** Junio 2025
+
 ---
 
 ## 🎯 Objetivo del Proyecto
 
-Este proyecto fue desarrollado como parte del curso de Power BI con el objetivo de aplicar conceptos clave de modelado de datos. Se construyó un **modelo en estrella** con dos tablas de hechos y varias dimensiones, se realizaron transformaciones en Power Query, y se creó una **tabla calendario** personalizada para análisis temporales.
+Ayudar a nuestro querido Apu a organizar su tienda en Power BI.  
+Se trabajó un modelo de datos relacional que conecta tablas clave como **productos, clientes, locales, ventas y stock**, para responder preguntas fundamentales como:
 
-Aunque el dataset es ficticio y de tamaño reducido, se aplicaron buenas prácticas reales en la limpieza, modelado y visualización de datos.
+- ¿Qué productos se venden más en Springfield?
+- ¿Quiénes son los mejores clientes?
+- ¿En qué locales se vende más?
+- ¿Cuánto inventario queda?
+
+Todo esto representado en un dashboard interactivo fácil de entender, incluso para el Sr. Burns.
 
 ---
 
 ## 🧱 Estructura del Modelo
 
-- 🔹 **Modelo Estrella**: 2 tablas de hechos y múltiples tablas dimensión conectadas.
-- 🔹 **Relaciones validadas**: tipo uno a muchos, con dirección de filtro adecuada.
-- 🔹 **Tabla Calendario**: construida con funciones DAX como `CALENDAR` para permitir análisis por año, mes, trimestre, etc.
+- 🌟 **Modelo Estrella**: Con 2 tablas de hechos (ventas y stock) y sus respectivas dimensiones.
+- 🔗 Relaciones bien definidas, cardinalidades correctas, y dirección de filtro ajustada.
+- 📆 **Tabla Calendario personalizada** usando `CALENDAR`, ideal para ver tendencias por fecha, mes o año.
 
 ---
 
-## 🛠️ Proceso de Desarrollo
+## 🛠️ ¿Qué se hizo?
 
-1. **Limpieza de Datos**
-   - Transformación y combinación de archivos en Power Query.
-   - Tipado correcto de columnas y normalización de nombres.
+1. **Limpieza de Datos en Power Query**
+   - Renombrado de columnas con nombres legibles.
+   - Tipado correcto y eliminación de valores nulos.
 
-2. **Modelado de Datos**
-   - Diseño de relaciones en vista de modelo.
-   - Uso de claves primarias y foráneas para relaciones sólidas.
+2. **Modelado Relacional**
+   - Construcción del modelo estrella con claves y relaciones sólidas.
+   - Validación de relaciones manual y visual.
 
 3. **Visualizaciones en Power BI**
-   - Gráficos de barra, filtros por fechas.
-   - Panel intuitivo y enfocado en el análisis de tendencias.
+   - Gráficos de barras y matrices para analizar clientes, productos y locales.
+   - Filtros por fechas y categorías.
 
 ---
 
 ## 🖼️ Capturas del Dashboard
 
-![Vista general del dashboard](https://github.com/Evelyn9819/Power-Bi-mi-primer-dashboard/blob/main/dashboard-panel%20principal.PNG)
+![Vista general del dashboard](dashboard-panel principal.PNG)  
+
+---
+
+## 📁 Archivos incluidos
+
+
+
+---
+
+## 💬 Reflexión
+
+Aunque el dataset es ficticio, este proyecto me permitió practicar:
+- Buenas prácticas en modelado de datos.
+- Implementación de relaciones eficientes.
+- Uso de funciones DAX básicas.
+- Diseño de dashboards con enfoque visual claro y amigable.
+
+---
+  
+🔗 **LinkedIn:** [linkedin.com/in/evelynoblitas](https://linkedin.com/in/evelynoblitas)
