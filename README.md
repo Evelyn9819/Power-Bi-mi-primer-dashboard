@@ -46,13 +46,7 @@ Todo esto representado en un dashboard interactivo fácil de entender, incluso p
 
 ## 🖼️ Capturas del Dashboard
 
-![Vista general del dashboard](dashboard-panel principal.PNG)  
-
----
-
-## 📁 Archivos incluidos
-
-
+![Vista general del dashboard](https://github.com/Evelyn9819/Power-Bi-mi-primer-dashboard/blob/main/dashboard-panel%20principal.PNG)
 
 ---
 
