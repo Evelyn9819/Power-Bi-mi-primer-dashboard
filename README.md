@@ -36,3 +36,4 @@ Aunque el dataset es ficticio y de tamaño reducido, se aplicaron buenas prácti
 
 ## 🖼️ Capturas del Dashboard
 
+![Vista general del dashboard](https://github.com/Evelyn9819/Power-Bi-mi-primer-dashboard/blob/main/dashboard-panel%20principal.PNG)
